@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalPhotoLookWeb", "PersonalPhotoLookWeb\PersonalPhotoLookWeb.csproj", "{60E02049-31C3-4718-B88F-FE8AF71419CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalPhotoLookWeb.Client", "PersonalPhotoLookWeb.Client\PersonalPhotoLookWeb.Client.csproj", "{E85ADE7B-AA71-44B5-A1FE-E66A459B597D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E02049-31C3-4718-B88F-FE8AF71419CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E02049-31C3-4718-B88F-FE8AF71419CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E02049-31C3-4718-B88F-FE8AF71419CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E02049-31C3-4718-B88F-FE8AF71419CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85ADE7B-AA71-44B5-A1FE-E66A459B597D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85ADE7B-AA71-44B5-A1FE-E66A459B597D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85ADE7B-AA71-44B5-A1FE-E66A459B597D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85ADE7B-AA71-44B5-A1FE-E66A459B597D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2372A8E0-C1F5-45D6-8A69-738EB4210B72}
+	EndGlobalSection
+EndGlobal
